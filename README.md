@@ -1,2 +1,3 @@
-# android_programming_counter
-This app counts the number that a button has been clicked.
+# android_programming_calculator
+This app calculate two numbers.
+There are +, -, *, / button to decide how to calculate.
